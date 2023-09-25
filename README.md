@@ -6,4 +6,4 @@
 
     You can see my codes above and my project running below: 
 
-    https://andredelcorso.github.io/timer-project-js/
+    ![https://andredelcorso.github.io/timer-project-js/]
